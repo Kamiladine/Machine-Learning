@@ -3,7 +3,7 @@ Source code for machine Learning for Tourbuddy App
 
 Model Building
 --
-We performed image classificarion using mobile transfer learning on already trained [MobileNetV2](https://www.tensorflow.org/api_docs/python/tf/keras/applications/mobilenet_v2) to classify 17 different places. MobileNetV2 is a convolutional neural network (CNN) architecture designed to work well on mobile devices. MobileNetV2 is an effective feature extractor for object detection and segmentation. here are the 17 of our Class :
+We performed image classificarion using mobile transfer learning on already trained [MobileNetV2](https://www.tensorflow.org/api_docs/python/tf/keras/applications/mobilenet_v2) to classify 17 different places. MobileNetV2 is a convolutional neural network (CNN) architecture designed to work well on mobile devices. MobileNetV2 is an effective feature extractor for object detection and segmentation. here are the 17 of our [Class](https://github.com/Kamiladine/TourBuddy-Machine-Learning/tree/fe087159f3e837e7ab49fa9dcc6d7c2e68b90de3/Dataset) :
 | No. | Place Name                  |
 |-----|--------------------------|
 | 1.  | Benteng Vredeburg        |
