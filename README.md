@@ -23,6 +23,9 @@ We performed image classificarion using mobile transfer learning on already trai
 | 15. | Pura Tanah Lot           |
 | 16. | Taman Sari               |
 | 17. | Tugu Jogja               |
+Our model can be accessed here <a target="_blank" href="https://colab.research.google.com/github/Kamiladine/TourBuddy-Machine-Learning/blob/035d55f48b8f5d3302c91aa0b70a67f0b43df7ac/TourBuddyModel.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Dataset Resources
 --
