@@ -1,6 +1,8 @@
 # Machine-Learning 👨‍💻
 Source code for machine Learning for Tourbuddy App
 
+Model Building
+--
 We performed image classificarion using mobile transfer learning on already trained mobilenet_v2 to classify 17 different places. MobileNetV2 is a convolutional neural network (CNN) architecture designed to work well on mobile devices. MobileNetV2 is an effective feature extractor for object detection and segmentation. here are the 17 of our data:
 | No. | Place Name                  |
 |-----|--------------------------|
@@ -21,8 +23,6 @@ We performed image classificarion using mobile transfer learning on already trai
 | 15. | Pura Tanah Lot           |
 | 16. | Taman Sari               |
 | 17. | Tugu Jogja               |
-
-
 
 Dataset Resources
 --
